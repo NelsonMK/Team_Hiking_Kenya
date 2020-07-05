@@ -1,0 +1,2 @@
+rootProject.name='Team Hiking Kenya'
+include ':app'
